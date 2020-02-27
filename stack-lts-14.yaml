@@ -1,0 +1,11 @@
+resolver: lts-14.27
+
+packages: 
+  - '.'
+
+extra-deps:
+- either-unwrap-1.1@sha256:bd9a8cc3ce127b0f922db4da0b3eb25036034406dd40c954d3f8aa6fe5aab313
+- mime-0.4.0.2@sha256:208947d9d1a19d08850be67ecb28c6e776db697f3bba05bd9d682e51a59f241f
+- strptime-1.0.10@sha256:f7f0c3ffedbedbfebc4ce77e0015b4ad879d79dffe11a747da7a304900b09d13
+- sandi-0.5@sha256:b278d072ca717706ea38f9bd646e023f7f2576a778fb43565b434f93638849aa
+
