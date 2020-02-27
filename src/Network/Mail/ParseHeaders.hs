@@ -7,6 +7,7 @@ module Network.Mail.ParseHeaders
   (
     parseHeaders
   , lookupHeaders
+  , Header
   )
   where
 
